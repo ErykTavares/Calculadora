@@ -1,0 +1,19 @@
+.content-button{
+    text-align: right;
+}
+
+.resultado{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+.jumbotron{
+    background-color:aliceblue;
+}
+h1{
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color:crimson
+}
